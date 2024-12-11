@@ -8,7 +8,6 @@
  :computer: Eu sou um desenvolvedor back-end. Gosto de colaborar, estou aberto a qualquer trabalho e colaborar nele, você pode entrar em contato comigo por qualquer meio descrito acima
 
 ------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdesigncuba)](https://github.com/webdesigncuba/github-readme-stats)
 <div>
 <a href="https://github.com/webdesigncuba">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdesigncuba&layout=compact&langs_count=7"/>
