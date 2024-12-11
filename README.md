@@ -11,7 +11,7 @@
 <div>
 <a href="https://github.com/webdesigncuba">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdesigncuba&layout=compact&langs_count=7"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api username=webdesigncuba&show_icons=true&include_all_commits=true&count_private=true&token=/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api username=webdesigncuba&show_icons=true&include_all_commits=true&count_private=true/>
 </div>
 
 
